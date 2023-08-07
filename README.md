@@ -1,3 +1,4 @@
+![Screenshot (7)](https://github.com/Shubh-88/Blog-website/assets/97448182/6da5798e-4c74-42e1-9806-55090af6cfda)
 
 
 
