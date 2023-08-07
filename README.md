@@ -1,3 +1,8 @@
+
+![Screenshot (7)](https://github.com/Shubh-88/Blog-website/assets/97448182/b238e600-4831-496a-ae0b-d28db3bf4e02)
+
+
+
 # base
 
 ## Project setup
