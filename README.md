@@ -2,7 +2,6 @@
 
 ![Screenshot (8)](https://github.com/Shubh-88/Blog-website/assets/97448182/3e15a106-3a5e-4ebd-aa54-378bcf863661)
 
-![Screenshot (9)](https://github.com/Shubh-88/Blog-website/assets/97448182/d1eb1db9-673f-45f7-9cdb-0668cf794a89)
 
 
 # base
